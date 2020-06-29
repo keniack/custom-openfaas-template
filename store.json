@@ -1,0 +1,17 @@
+[
+  {
+    "title": "skippy-data",
+    "description": "This is a forked version of the work by Cynthia Marcelino - it has been re-packaged as an OpenFaaS serverless function.",
+    "image": "keniack/data-api-demo",
+    "name": "data-api-demo",
+    "fprocess": "python3 index.py",
+    "network": "func_functions",
+    "repo_url": "https://github.com/faas-and-furious/inception-function",
+    "labels": {
+      "skippy.data.io": "minio"
+    },
+    "environment": {
+      "write_timeout": "30"
+    }
+  }
+]
