@@ -6,7 +6,7 @@
     "name": "data-api-demo",
     "fprocess": "python3 index.py",
     "network": "func_functions",
-    "repo_url": "https://github.com/faas-and-furious/inception-function",
+    "repo_url": "https://git.dsg.tuwien.ac.at/c.marcelino/skippy-template/-/tree/master/template/data-api-demo",
     "labels": {
       "skippy.data.io": "minio"
     },
