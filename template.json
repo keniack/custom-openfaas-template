@@ -1,0 +1,10 @@
+{
+        "template": "data-api-demo",
+        "platform": "x86_64",
+        "language": "Python",
+        "source": "skippy",
+        "description": "skippy-data-api",
+        "repo": "https://git.dsg.tuwien.ac.at/c.marcelino/skippy-template.git",
+        "official": "true"
+ }
+
